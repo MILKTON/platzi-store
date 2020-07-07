@@ -16,8 +16,8 @@ script:
 notifications:
   email:
     recipients:
-      milton37aa@gmail.com
-      milton.fi@hotmail.com
+    -  milton37aa@gmail.com
+    -  milton.fi@hotmail.com
     on_success: always
     on_failure: always
 
