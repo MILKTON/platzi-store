@@ -20,6 +20,7 @@ notifications:
     -  milton.fi@hotmail.com
     on_success: always
     on_failure: always
+  slack: flashboysmonitor:CVZvYISJNtWfV3imP0zmjDiF
 
 deploy:
   provider: pages
