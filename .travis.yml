@@ -20,7 +20,9 @@ notifications:
     -  milton.fi@hotmail.com
     on_success: always
     on_failure: always
-  slack: flashboysmonitor:CVZvYISJNtWfV3imP0zmjDiF
+  slack: 
+     secure: 
+      "JLnk1eTqFp1IEHcdD6SSst/FM6bQ0UY9ajxJIhenQ1wJZV6i/Mm36GLyu8oWw7O3jmnsOt0dr+Vb3ApuRE3cH3djN/SvmgazsxDTMKnVKLgWsV/cq6zDS+KpRZ9qsSN6aYa5agm7fpLy/jR44X80qbSVMFQdA5Xs40QxbltdfN+iNfHgKQEpK+DzS1tWPE/W5AyV1fEss2xYH6eLf5HFdljG9kTl86Bw2Jdy3NX0q7/YIHNTjt/ICQuzXlCLM9vA099JEUaN/gwIfq7z/O2CuMQmoEVBMOKqpJtAoiJiwjQSkAX8r6rhJeS7PEa4ZXmP7XSx9BaQh462ojhNrazgCoD0xI4hAxJg3O3jDplZmHcd8b42rj/1r+o2q1XkWDMtA+N+NzQw/EBqAMyLBkICkhbs9e5E8yrid4h2CM3YnKyvbKEqo1Od71pkp6u9ZOCC0Q351Xmpm3JmpRuQXDUe1oXysfSogTWs79nxNaJSvjEAx7rVoZJKKgq97VwcAgCep3dhmEuaEMtDKAim+gTA07jrrN7PKeX747v9El/VT65kUmYyOoKdTSFX75N2BDNMyRMhxIPfSUvj2iqBXfjr/CcbkEPcoV5zvdLp7+8F1MGc0x0K3vwWmSB/hZjnfY6AAR7KahGxgs3+iJYAdwysNwGoPoqXl4l2VFQ/WHzHuUY="
 
 deploy:
   provider: pages
